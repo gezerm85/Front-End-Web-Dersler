@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins';
+}
+
+.logo{
+    width: 26px;
+    height: 26px;
+    border-radius: 5px;
+}
+
