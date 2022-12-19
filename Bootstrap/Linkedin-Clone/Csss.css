@@ -40,4 +40,48 @@ p{
     font-size: 12px;
 }
 
+.button1{
+
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 8px;
+    background-color: transparent;
+    border: none;
+    
+}
+
+.icon1{
+    color: #378fe9;
+    font-size: 18px;
+   
+}
+
+.icon2{
+    color: #5f9b41;
+    font-size: 18px;
+}
+
+.icon3{
+    color: #c37d16;
+    font-size: 18px;
+}
+
+.icon4{
+    color: #e16745;
+    font-size: 18px;
+}
+
+.post{
+    
+    text-align: start;
+    padding-left: 15px;
+    margin-left: 10px;
+    border-radius: 30px;
+    border-color: rgba(0,0,0,.06);
+    background-color: white;
+
+    width: 400px;
+    height: 50px;
+}
+
 
